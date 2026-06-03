@@ -255,3 +255,4 @@
 | **PenTest+** | The certification focuses on penetration testing and vulnerability assessment. It validates a professional's ability to identify, exploit, report, and manage network vulnerabilities. |
 | **Security +** | The Security+ certification validates the essential skills required in cybersecurity roles. The certification covers network security, threat management, security systems and protocols, identity and access management, and risk identification. |
 | **SSCP** | The Systems Security Certified Practitioner validates an individual's proficiency in implementing, monitoring, and administering IT infrastructure. |
+
