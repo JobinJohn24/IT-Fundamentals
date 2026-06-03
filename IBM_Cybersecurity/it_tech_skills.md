@@ -1,6 +1,6 @@
-# understanding the importance of IT fundamentals technical skills
+# Understanding the importance of IT fundamentals technical skills
 
-### learning objectives
+### Learning objectives
 
 - Basic IT skills
 - basic hardware
@@ -10,7 +10,7 @@
 - databases
 - cloud (identifying potentional threats or vulnerabilities)
 
-### hardware knowledge
+### Hardware knowledge
 
 - computer system
 - processing, storing and inputing information
@@ -25,7 +25,7 @@
   - detecting abnormalities
   - user priviledges, system updates, and patches
 
-### networking knowledge
+### Networking knowledge
 
 - links devices
 - data exchanges
@@ -33,7 +33,7 @@
 - data transferring 
 - preventive measures
 
-### programmming basics
+### Programmming basics
 
 - involves testing, debugging and maintaining the source of code of computer programs
 - acts as an interface
@@ -41,7 +41,7 @@
 - tools for penetration testing
 - vulnerability management
 
-### database
+### Database
 
 - a structured set of data organized for retrieval, addition, modification, and deletion of data
 - stores data
@@ -53,7 +53,7 @@
 - management efforts
 - safeguards data
 
-### importance of each skills 
+### Importance of each skills 
 
 - information assets, operations, information security
 - information security and assurance:
@@ -92,7 +92,7 @@
   - advanced authentication
   - account management
 
-### important skills, tips and contributions in the cybersecurity field
+### Important skills, tips and contributions in the cybersecurity field
 
 - contributing to open-source communities
 - exposure to enterprise-level tools
@@ -145,7 +145,7 @@
 | **User Permissions and Roles** | Used within an operating system to limit access to sensitive data |
 | **Vulnerability Management** | The continuous discovery, prioritization, and resolution of security vulnerabilities in an organization's IT infrastructure and hardware |
 
-### cerifications 
+### Cerifications 
 
 - charter professional privacy progrssional IT program
 - certified information systems security professional (CISSP)
@@ -210,7 +210,7 @@
 - Certified Ethical Hacker
 - CISSP (leadership roles)
 
-### factors for studying for the certification exams
+### Factors for studying for the certification exams
 
 - reviewing the detailed set of objectives
 - textbooks
