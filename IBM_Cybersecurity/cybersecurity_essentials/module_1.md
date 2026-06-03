@@ -15,3 +15,12 @@
     - two types:
         1. physical data integrity - actions and fail-safes that protect the physical systems that store and process data.
         2. logical data integrity - digital checks and protocols that protect the data from human error and hackers.
+- tools for understanding unauthorized information alterations
+  - alteration threats:
+    - financial records
+    - vote totals
+    - health records
+    - news stories
+  - tools
+    - file integrity monitoring (audits senstive information, and folders for safeguarding & making sure all activity is authorized.)
+    - relational database management system (records the user access and data changes)
