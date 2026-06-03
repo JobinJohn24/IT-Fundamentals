@@ -227,7 +227,7 @@
 | **CASP+** | CompTIA Advanced Security Practitioner involves an in-depth understanding of risk management, research and collaboration, and enterprise security integration, making one competent in addressing complex cyber threats at an organizational level. |
 | **CC certification** | An entry-level certification option for those new to cybersecurity. This certification verifies an individual's understanding of foundational cybersecurity concepts, including access controls, network security, risk identification, incident response, and recovery. |
 | **CCSP** | The Certified Cloud Security Professional offered by the International Information System Security Certification Consortium (ISC)² is a globally recognized credential that validates a professional's expertise in cloud security. |
-| **C|CISO** | The certified chief information security officer certification validates an individual's cybersecurity leadership skills. |
+| **C/CISO** | The certified chief information security officer certification validates an individual's cybersecurity leadership skills. |
 | **CDPSE** | The certified data privacy solutions engineer certification validates an individual's knowledge of IT data privacy measures. |
 | **CEH** | The certified ethical hacker certification validates an individual's knowledge of ethical hacking. |
 | **CERP** | The American Bankers Association offers the certified enterprise risk professional certification. It is ideal for individuals looking to demonstrate their knowledge of risk management within the banking industry. |
