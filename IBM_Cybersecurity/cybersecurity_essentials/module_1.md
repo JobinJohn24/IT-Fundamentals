@@ -30,7 +30,7 @@
     - use error checking and validation
 
 - availability
-  - authorized users having immediate, reliabble access ot their data
+  - authorized users having immediate, reliable access ot their data
   - threats against availability:
     - various forms of sabotage to cause harm to the organization
     - e.g. DoS - overwhelming the system with traffic
@@ -97,7 +97,7 @@
 - hardware threats
   - including security policies that lead to physical threats, tampering, and/or theft of hardware.
 - data threats
-  - inlcuding data leaks, breaches, and dumps
+  - including data leaks, breaches, and dumps
   - dumpster diving, which then requires companies to shread important paperwork to avoid this.
 - insider threats
   - including employees, hackers
