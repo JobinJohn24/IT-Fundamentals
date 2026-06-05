@@ -164,8 +164,47 @@
     - e.g. cryptomining
   - DoS attacks
     - floods networks with alot of traffic that crashes
+    - DDoS attack - when a denial of service is used with a botnet
+      - advantages: 
+        - harder to find the attack's origin
+        - utilizes 100s, 1,000s of computers for the attack
     - used to distract from simulataneous attacks
     - e.g. 
       - buffer overflow - more traffic than it can handle
       - ICMP flood - pings sent to every computer on a network to create a crash
       - SYN flood - series of incomplete connection requests floods the website until that server crashes
+  
+
+*Phishing, Social Engineering, & other attacks*
+
+- objectives:
+  - listing the types of impersonation attacks
+  - recognizing social engineering attacks
+  - demonstrating exposure to shoulder surfing, pretexting, and phishing
+
+- impersonation
+  - impersonating another person to steal data or take over a system ~ `social engineering`
+- online attacks
+  - originate from 'confidence tricks' or cons
+
+- social engineering
+  - using phychological manipulation to gain trust to give out sensitive information
+    - types
+      - shoulder surfing - hotels, libraries, cafes, and airports
+      - baiting
+      - pretexting
+      - phishing
+  
+  - baiting - using physical or logical lures into infecting their own system 
+  - pretexting - attacker pretending to be someone with authority
+  - phishing - sending emails or texts to create senses of urgency or pressure
+    - spear - targeting a specific individual
+    - whaling - targeting high-income individuals
+    - vishing - over the phone
+
+- windows defender antivirus 
+  - steps for preventing:
+    - scanning
+    - quaratine - isolating detected threats to prevent them from harming the system.
+    - tamper protection - feature that helps prevent malicious applications from changing security settings
+    - automatic sample submissions - feature that protects the computer system by sending sample of suspicious file to MS for analysis
