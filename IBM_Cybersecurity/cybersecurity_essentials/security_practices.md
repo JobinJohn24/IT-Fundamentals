@@ -70,7 +70,6 @@
     - *Rules-based access control* - uses network groups with different permission levels
 - authorization
   - permission to access a location or do an action
-  - jobin
 - authentication
   - confirming the identity
   - `login information + identity confirmation = authentication`
@@ -210,6 +209,7 @@
     - quick
 - asymetric encryption (public key cryptography)
   - uses a public and private key
+  - prevents data from being tampered or altered in transit
   - more complex
   - benefits:
     - used for smaller data
