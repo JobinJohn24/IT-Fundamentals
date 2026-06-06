@@ -9,7 +9,7 @@
   - prone to be less secure
 - rooting & jailbreaking
   - removing device restrictions and installing non-approved applications
-  - add functionality but adds vulnerability
+  - add functionality but also vulnerability
 - desktop software
   - used to open files stored locally or in the cloud
   - IT departments will provides patches & updates in software to avoid vulnerabilities
@@ -55,7 +55,7 @@
   - providing zones to block or allow website based on a confined zone
   - security zone levels:
     - medium, high, custom = local, internet, and intranet
-  
+
 - plug-ins, extensions, & toolbars
   - toolbars - old add-ons are filled with bloatware & malware
   - extensions aren't supported by today's browsers
