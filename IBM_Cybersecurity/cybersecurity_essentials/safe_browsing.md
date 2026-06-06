@@ -152,4 +152,47 @@
 - options for clearing browsing data
 - check and clear browsing history
 - config settings for privacy & security
-- 
+
+### VPNs
+- different VPN connection types
+- pros & cons of hardware & software VPNs
+- network hardware used to create VPNs
+
+- VPNs
+  - encrypted tunnel set up between 2+ sites
+- site-to-site VPN
+  - two sites connect across an existing internet connection with a VPN device
+- host-to-site VPN
+  - remote user needs to connect securely to a site
+- host-to-host VPN
+  - when two remote users securely connect to each other
+
+- VPN hardware
+  - devices designed to create VPNs
+  - Network devices with VPNs functionality
+  - routers, firewalls, VPN concentrators (multiple VPNs being connected)
+  - its including in:
+    - virtual LANs
+    - Operating systems and browsers (windows, MacOS)
+
+- IPSec (Internet Protocol Security)
+  - a set of protocols that utilize cryptography to protect data traveling over the internet
+  - core protocols:
+    - authentication headers (AH)
+      - authenticates senders and IP addresses
+    - encapsulating security payload
+      - encrypts and authenticates the data
+  - two modes:
+    - tunnel mode
+      - entirety of the data is wrapped in a packet with a new header (common: site-to-site VPN)
+    - transport mode
+      - IP header of the data is left unencrypted (common: host-to-site VPN)
+  - uses security features:
+    - security associations
+      - which type of hashing and encryption are used
+    - internet key exchange
+      - secures exchange of cryptographic keys
+    - encryption and hashing algorithms
+      - algorithms that scramble data
+    - anti-replay protection
+      - standard that stop hackers from using the data
