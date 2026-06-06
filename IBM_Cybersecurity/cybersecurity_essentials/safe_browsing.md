@@ -146,3 +146,10 @@
   - harmful site will contain:
     - adware
     - malware
+
+### Lab: Managing browser security and privacy settings
+- performing safety checks
+- options for clearing browsing data
+- check and clear browsing history
+- config settings for privacy & security
+- 
