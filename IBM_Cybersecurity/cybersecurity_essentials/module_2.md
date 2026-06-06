@@ -193,4 +193,48 @@
 - symmetric and asymmetric encryption use cases
 - cryptographic hashing methods & techniques
 
-- 
+- encryption
+  - readable plain text converted to ciphertext that can only be read fort anyone who has a decryption key
+  - e.g. MHR, consumer data, student information
+
+- data at rest
+  - encrypted data at rest is less vulnerable 
+-  data in motion - refers to data in transit between two devices
+   - more vulnerable to MiTM attacks
+ 
+- symmetric encryption (single-key, or private key)
+  - single key is used for encrypting and decrypting
+  - benefits:
+    - less cache / memory
+    - better for large amounts of data
+    - quick
+- asymetric encryption (public key cryptography)
+  - uses a public and private key
+  - more complex
+  - benefits:
+    - used for smaller data
+    - used for digital signature, authentication, digital certificates, and key exchanges
+- Public key infrastructure (PKI)
+  - user validated through a digital certificate by CA
+  - the digital certificate process:
+    > Sender used private key to encrypt signature to message or file 
+    >> The recipient uses the sender's public key to decrypt the message
+    >>> If the public key decrypts the signature = proof of zero tampering or alterations
+- smart card authentication vs digital signatures
+
+- cryptographic hashes
+  - string of numbers, and letters cureated by running a password through an algorithm
+
+### Managing Email & Spam
+- spam 
+- phishing scam identifications
+- reducing spam 
+
+- phishing spam identifications
+  - common have the user feel fear, greed, or urgency so the user will will make rushed decisions
+  - fake alerts about:
+    - access with account or payment
+    - account breaches
+    - refunds
+    - prizes
+    - suspicious activities
