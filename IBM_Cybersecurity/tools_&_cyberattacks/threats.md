@@ -159,5 +159,48 @@
     - asertaining their position, email, organization, and assistant
   - e.g. if the individual wanted/needed a better computer, then the hacker would devise an email that provides a link to get a new computer
 - common solutions:
-  - having a secure DNS = quad 9 provides a blacklist and restricts individuals from accessing the hackers website
+  - having a secure DNS = quad 9 (converts your domain to 9.9.9.9) provides a blacklist and restricts individuals from accessing the hackers website
+  - better user education
+  - enforcing critical thinking skills for thinking rather than just acting
 
+### Phishing
+- types 
+- protecting against it
+
+- social engineering
+  - conning someone in order for someone to think on spot that'll:
+    - redirect you to a fake website
+    - infecting systems 
+
+- types:
+  - general
+  - spear
+    - specific to an env or individual
+  - whaling 
+    - designed to target high-income individuals
+  - SEO poisoning
+    - tricking the search engine into believing the hackers website is real
+  - smishing
+    - through an SMS messages
+
+- prevention techniques:
+  - use critical thinking to understand the intent, motive
+  - keeping systems patched
+  - AV/EDR for protecting the endpoint, the client system from it
+  - email security program
+    - scrubs the email with phishing intent
+  - utilizing a secure DNS (which will converts website into numerical address needed to send over the internet)
+    - Quad 9 that changes the DNS into 9.9.9.9, that gives you protection for free
+
+### Humans vs AI
+- experiment to understand who's better at creating phishing emails; humans or Generative AI
+
+- Generative AI: 
+  - asked to produce a list of concern for people in industries
+  - write a leveraging social engineering, and marketing techniques for an phishing email
+  - determining the sender and recipient
+
+- Humans:
+  - leveraging open-source intelligence (e.g. using Linkedln, Glassdoor for information about people)
+  - create a sense of urgency (e.g. time constriant)
+  - notion of brevity (e.g. brief survey)
