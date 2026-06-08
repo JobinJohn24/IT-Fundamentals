@@ -152,3 +152,23 @@
    - preventing tunnel vision
    - promoting holistic understanding
    - exploring unconventional defense strategies or atypical threat sources
+   - breaking down possibilties into components
+     - who: identifying the potential actors
+     - what: type of threat and the solution
+     - when: time of incident
+     - where: threat source
+     - why: motive behind motive
+     - how: threat methods or solutions
+3. Evaluting
+   - analyzing and interpreting information
+   - testing
+   - validating
+4. identifying key drivers
+   - motivation
+   - vulnerability
+   - impact of breach
+5. understanding context
+   - comprehending different pieces as a whole
+   - alternatives perspectives
+   - practicing alignment with industry standards
+
