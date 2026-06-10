@@ -130,3 +130,23 @@
     - inspects the outgoing IP packets and authenticates source headers
 
 ### DDoS Attacks
+
+- an attack on the availability of the system
+- classes of DDoS attacks:
+  - `ninja` 
+    - when a system is 
+  - `1k cuts`
+    - using a SYN flood
+    - send a SYN packet to a system that would normally return a SYN acknowledge, but sends to a different location
+    - the system starts a timer, and requiring a response back 
+    - the bad actor will continuously send SYN packets
+      - this will reserve fake connection attempts, spend useless handling requests, exhaust the system
+  - `Distributed DDoS` - `1k cuts * n` - (n representing the amount of users involved in the attack)
+    - using a number of 'bots' to carry out a distributed amount of attacks to a certain amount of users that would exhaust the systems
+
+- Prevention techniques
+  - infinite capacity 
+  - redundancy 
+    - rule of thirds
+  - pacing
+    - limiting the amount of traffic the system can hold in a specific interval of time
