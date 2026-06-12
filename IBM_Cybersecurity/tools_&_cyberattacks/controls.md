@@ -122,11 +122,11 @@
   - with the motive to collect to private information
 
 - prevention techniques
-  - ingress filtering
+  - `ingress filtering`
     - packet filtering where traffic is inspected at the entry point all the way to the network
     - allow legit traffic, and block potentially harmful traffic
     - it inspect the source IP headers
-  - egress filtering
+  - `egress filtering`
     - inspects the outgoing IP packets and authenticates source headers
 
 ### DDoS Attacks
@@ -150,3 +150,41 @@
     - rule of thirds
   - pacing
     - limiting the amount of traffic the system can hold in a specific interval of time
+  - filtering
+    - filtering traffic from specific locations or IP addresses and knowing to turn it off when under attack
+    - hardening
+      - removing the unecessary actions or knowledgeables
+      - removing default settings and passwords
+    - patching
+      - constantly updating the software to remove vulnerability
+    - monitoring - SIEM/XDR
+      - understanding the difference between successful monitor and bad actors
+    - IR/SOAR
+      - dynamic playbooks for understanding the process of what to do i.e. incident repsonse
+
+### Injection Attacks
+- understanding the SQL injection
+- consequences of SQL injection
+- cross-site scripting and types
+
+- injeting malicious code within a SQL structure that can manipulate data through remote commands
+- prevelant for older systems
+- flaws:
+  - SQL injection attacks
+    - the ability to talk to databases and manage information
+    - the attack is bascially deceptive instructions for database misinterpretation (e.g. leaks, and grant access)
+    - will generate falisfied username and passwords
+  - XXS attacks
+    - embedding harmful scripts excuted on the client's side, which will execute malicious scripts which helps capture; cookies, session identifiers, and critical data & alterations of the website
+      - Types of XXS attacks: 
+        - server-side XXS
+          - when user data is incorporated into the HTTP response which originated in the source
+        - client XXS
+          - web applications procecesses unauthorized data from users and updated with risky JS functions which will create insecure data sources
+
+
+- consequences for SQL injection attacks:
+  - confidentiality breach
+  - authentication compromise
+  - authorization loss
+  - integrity violation
