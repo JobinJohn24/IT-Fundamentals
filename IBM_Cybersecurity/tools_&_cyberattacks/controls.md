@@ -188,3 +188,53 @@
   - authentication compromise
   - authorization loss
   - integrity violation
+
+### Security controls
+- types of security controls
+- safety initiatives: admin, physical, and technical controls
+- functions of security controls
+
+- security controls:
+  - actively operate:
+    - preventing, detecting and managing risks
+
+- control types
+  - admin controls
+    - guidelines and methodologies
+    - ensuring it's implementation
+  - physical controls
+    - protecting the hardware, env, and infrstructure
+    - serves as the first line of defense
+  - technical controls
+    - protecting information
+    - using hardware, software, and firmware
+    - ensuring only authorized personnel are allowed
+
+- integrating controls
+  - admin controls
+    - access policy
+    - regular training programs
+  - physical controls
+    - biometric security controls
+    - alarm systems
+  - technical controls
+    - firewalls
+      - IDS
+
+- security measure functions
+  - deterrent
+    - discourage deviations
+    - decrease intentional attacks
+    - discourage against unintentional methods
+  - preventive
+    - stops security incidents
+    - obstructing unauthorized actions
+    - addressing potential attacks
+  - detective
+    - identifing unauthorized actions
+    - discover and responding to breaches
+  - corrective
+    - measures implemented to repair security violations
+    - incorporating strategies
+    - preventing incident recurrence
+
