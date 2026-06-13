@@ -238,3 +238,33 @@
     - incorporating strategies
     - preventing incident recurrence
 
+# Security Controls Matrix
+
+# Security Controls Matrix
+
+| Control Category | Preventive | Detective | Deterrent | Corrective |
+|---|---|---|---|---|
+| **Administrative** | Policies for hiring and firing; Policies for data classification; Separation of duties; Mandatory vacation time | Regular audits and reviews; Employee activity monitoring; Anonymous internal reporting systems | Policies defining the personal consequences of policy violation; Security awareness training highlighting the potential risks and damages associated with policy violation | Implement a business continuity plan; Implement an incident response (IR) plan |
+| **Physical** | Gates; Locks; Fences | Surveillance cameras; Motion sensors; Environmental monitoring systems; Tamper detection devices | Security guards; Reception desks; Lighting | Repair broken controls; Deactivate and reissue lost or stolen access cards |
+| **Technical** | Antivirus software; Intrusion prevention systems; Multifactor authentication (MFA); Firewalls; Access control lists (ACLs) | Honeypots; Intrusion detection systems; Security information and event management (SIEM) systems | Banners with legal warnings about unauthorized access; Code of conduct agreements | Perform vulnerability patching; Quarantine detected viruses; Reboot the system |
+
+### System Security
+- computer systems
+- maintaining computer systems
+
+- computer components
+  - CPU - instructions
+  - memory
+  - storage
+  - input/out 
+- system security
+  - protects comptuer systems from potential threats
+- maintain systems
+  - patching
+  - backups
+  - firewalls
+  - access controls
+    - restricting and regulate access
+  - encryption
+  - antivirus software
+- 
