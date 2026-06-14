@@ -261,10 +261,47 @@
   - protects comptuer systems from potential threats
 - maintain systems
   - patching
+    - updating systems and software
+    - enhancing functionality
+    - fixes for security loopholes
   - backups
+    - multiple copies of the data 
+    - restores the data in case of data loss
+    -  full backups, and incremental and differential backups
   - firewalls
+    - software that runs on individual computers
+    - inspects incoming and outgoing network packets
+    - ensure defenses
   - access controls
     - restricting and regulate access
   - encryption
+    - protects confidentiality
+    - obsecures the original content
+    - tools can encode the data which requires a key
   - antivirus software
-- 
+    - the first line of defense that scans the computer system
+
+### Network Security
+- objectives
+- importance
+- tools and methodology behind ensuring network security
+
+- `a protective measure that safeguards networks from unauthorized access` 
+- consists of defense layers:
+- defense in depth
+
+- objectives:
+  - identify and stop cyberthreats
+  - verifying secure access for legitimate users
+  - blocks unauthorized access
+
+- mechanisms: 
+  - external boundary & network internal structure
+  - external boundary:
+    - prevents infiltration and implements security measures
+  - internal structure
+    - protecting critical components
+
+- tools and methods:
+  - firewalls:
+    - hardwareand software barrier that fliters for malicious data traffic
