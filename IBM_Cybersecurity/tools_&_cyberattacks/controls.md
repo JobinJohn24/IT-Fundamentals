@@ -408,3 +408,56 @@
 - identify scan targets
   - categorizing the scan targets
     - knowledge of the digital env and current inventory to ensure ongoing, effective scanning.
+- performing regular vulnerability scans
+
+- scanning tools
+  - when selecting tools, it must require:
+    - robust vulnerability assessment capability, seamless integration, and features that align with organization's needs
+    - provides clear, actionable reports
+    - combinations of open-source, and commerical tools
+  - `Nessus` - scanner with an extensive plugin library, strong detection algorithms, and valuable insights into the network security posture
+  - `OpenVAS` - free open source, with a good range of detection capabilites with vulnerability testing
+- methodology:
+  - using static application security testing 
+    - inspects the source code
+  - using dynamic application security testing 
+    - executes coding during evaluation, and probes all the user-facing interfaces with inputs
+  - using interactive application security testing
+    - combines static and dynamic testing that examines the code in real-time
+
+### Incident Response & Digital Forensics
+- Organizations needing an effective IR strategy
+- outline 4 phases of an effective IR strategy
+- role of digital forensics in IR
+
+- why
+  - it can implement inevitability of security challenges
+
+- strategy
+  - NIST establishes industry standards
+
+- 4 phases
+  - `prepare and planning`
+  - `detection and analysis`
+    - using tools and systems to detect anomalies
+    - tools include intrusion detection and prevention systems
+    - using digital forensics to collect and analyze digital evidence
+  - `containment, eradication, & recovery`
+    - provides damage mitigation
+    - enabling documentation
+    - erdication and recovery includes the incident's root cause and restoring affected systems
+  - `post-incident activities`
+    - after the systems are restored, then a conduction of a post-incident review is required
+    - documentation:
+      - lessons learned
+      - weaknesses or areas for improvement in the IR plan
+
+- evidence collections for digital forensics:
+  - adhering to chain of custody
+  - chronological documentation, which includes:
+    - seizure
+    - custody
+    - control
+    - transfer
+    - analysis
+    - evidence disposition
