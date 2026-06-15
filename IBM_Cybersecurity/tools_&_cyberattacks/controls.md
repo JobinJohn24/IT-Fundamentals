@@ -305,3 +305,106 @@
 - tools and methods:
   - firewalls:
     - hardwareand software barrier that fliters for malicious data traffic
+    - basic firewalls:
+      - traffic monitoring through packet filtering
+      - verifying source and destination
+    - innovative firewalls:
+      - next-gen firewalls:
+        - intrusion prevention systems
+        - leveraging AI/ML
+        - utilizing threat intelligence
+        - monitoring applications
+
+- NAC - network access control
+  - manages authentication and authoritzation
+  - grants permissions
+  - performs risk assessments
+  - averts risks posed by vulnerable devices
+
+- intrusion detection and prevention systems
+  - scruntinizes network traffic
+  - identifies and manages threats
+  - reacts to perceived threats:
+    - halts traffic
+
+- VPN
+  - obsecures IP addresses
+  - conceals online identity
+  - masks geographical locations
+  - encrypts internet traffic
+  - applications:
+    - rerouting internet connections
+    - establishing connections to enterprise systems
+    - prevents public Wi-Fi risks
+
+- network segmentation
+  - partitions a network that strengthens security and limits lateral movement
+  - isolation of critical systems
+  - e.g. segregrating financial data handdling segments
+    - narrow exposure points
+    - reducing risk of unauthorized access
+  - applications for segmentation use:
+    - controls the spread of breaches
+
+- endpoint security
+  - endpoints are devices, servers or mobiles that uses EPS that secures endpoints for network protection
+  - helps in organizational security
+  - solutions:
+    - anti-virus, malware, and personal firewalls
+  - applications:
+    - protects devices
+    - maintains network integrity
+    - helps remote work
+    - BYOD policies
+
+- SEIM (security information and event management)
+  - aggregates and analyzes logs
+  - enables real-time visibility
+  - advanced SIEMS
+    - utilizes ML & AI to automate threat identification, address threats, and identifyinf malicious activity
+
+- SOAR (security orchestration, automation, and response)
+  - works with SIEM systems
+  - streamlines security operations
+  - empowers alert management, reduces response times, reduces alert fatigue
+
+### Application security by design
+- describing software development life cycle
+- application security 
+- identifying key security coding practices for enhancing application security
+
+- SDLC
+  - sequence of software dev process 
+  - planning -> identifying requirements -> designing -> coding -> testing -> deployment -> maintenance
+
+- Application security
+- series of secure practices and processes to enhance overall security of application
+  - by detecting and resolving security problems
+
+- Key coding practices
+  - input validation
+    - data is correct before processing
+    - no input validation can cause SQL injection
+  - error handling
+    - responds to and manages errors
+    - enables software to deal with issues
+  - secure logging
+    - tracking user and system activities
+    - keeping logs secure
+  - access control
+    - only authorized users can access
+    - maintains application security
+    - preserves sensitive information
+  - software secure testing
+    - evaluations to ensuring security
+  - encryption
+    - using cryptography libraries to undergone security reviews
+    - converts information or data into code
+
+### Vulnerability Management
+- process of vulnerabilites
+- scanning tools
+
+- identify scan targets
+  - categorizing the scan targets
+    - knowledge of the digital env and current inventory to ensure ongoing, effective scanning.
