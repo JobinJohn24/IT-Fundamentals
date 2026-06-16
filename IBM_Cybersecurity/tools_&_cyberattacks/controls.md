@@ -134,7 +134,7 @@
 - an attack on the availability of the system
 - classes of DDoS attacks:
   - `ninja` 
-    - when a system is 
+    - when a system is stealthy, and targeted attacked designed to take down a system with a single blow/attack
   - `1k cuts`
     - using a SYN flood
     - send a SYN packet to a system that would normally return a SYN acknowledge, but sends to a different location
@@ -168,18 +168,18 @@
 - cross-site scripting and types
 
 - injeting malicious code within a SQL structure that can manipulate data through remote commands
-- prevelant for older systems
+- prevalent for older systems
 - flaws:
   - SQL injection attacks
     - the ability to talk to databases and manage information
-    - the attack is bascially deceptive instructions for database misinterpretation (e.g. leaks, and grant access)
+    - the attack is basically deceptive instructions for database misinterpretation (e.g. leaks, and grant access)
     - will generate falisfied username and passwords
   - XXS attacks
     - embedding harmful scripts excuted on the client's side, which will execute malicious scripts which helps capture; cookies, session identifiers, and critical data & alterations of the website
       - Types of XXS attacks: 
-        - server-side XXS
+        - `server-side XXS`
           - when user data is incorporated into the HTTP response which originated in the source
-        - client XXS
+        - `client XXS`
           - web applications procecesses unauthorized data from users and updated with risky JS functions which will create insecure data sources
 
 
@@ -231,7 +231,7 @@
     - obstructing unauthorized actions
     - addressing potential attacks
   - detective
-    - identifing unauthorized actions
+    - identifying unauthorized actions
     - discover and responding to breaches
   - corrective
     - measures implemented to repair security violations
@@ -418,11 +418,11 @@
   - `Nessus` - scanner with an extensive plugin library, strong detection algorithms, and valuable insights into the network security posture
   - `OpenVAS` - free open source, with a good range of detection capabilites with vulnerability testing
 - methodology:
-  - using static application security testing 
+  - using `static application security testing` (SAST)
     - inspects the source code
-  - using dynamic application security testing 
+  - using `dynamic application security testing` 
     - executes coding during evaluation, and probes all the user-facing interfaces with inputs
-  - using interactive application security testing
+  - using `interactive application security testing`
     - combines static and dynamic testing that examines the code in real-time
 
 ### Incident Response & Digital Forensics
@@ -454,7 +454,7 @@
 
 - evidence collections for digital forensics:
   - adhering to chain of custody
-  - chronological documentation, which includes:
+  - chronological documentation, the process consists of:
     - seizure
     - custody
     - control
