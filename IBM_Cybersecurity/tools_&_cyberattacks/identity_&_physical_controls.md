@@ -131,3 +131,19 @@
 - when there's a device lost, there's account/device recovery
 - with multiple devices, the ability to synchorization capabilities
   - e.g. enabling these functions within a cloud
+- using a PKI in place of a SSH, or PGP
+  - when there's a user and it's system, the SSH is concerned with creating a secure pathway for information
+  - using FIDO in replacement of passwords by using passkeys
+
+### Physical threats and controls
+- variations of threats
+- outdoor security measures
+- environmental factors that can impact attacks
+
+- physical threats
+  - dumpster diving
+  - vandalism
+  - surveillance
+  - tailgating
+  - theft
+  - unauthorized access
