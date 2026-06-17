@@ -147,3 +147,18 @@
   - tailgating
   - theft
   - unauthorized access
+
+- prevention:
+  - site security strategies to prevent physical access
+  - lighting, camera, access controls, industrial camouflague
+
+- environmental factors:
+  - temperature
+    - overheating or condensation
+  - humidity
+    - condensation
+    - risk of ESD
+  - electrostatic discharge (ESD)
+    - sudden flow of electricity
+    - damage to computer components
+
