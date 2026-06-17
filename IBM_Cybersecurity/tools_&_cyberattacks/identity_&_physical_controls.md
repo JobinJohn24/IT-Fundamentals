@@ -71,3 +71,63 @@
     - e.g. file access controls
 
 ### Access Controls
+- description
+- role of identities
+- innovative and traditional methods
+
+- security measures that authorized personnel are allowed to view, and make use of the content
+- access management:
+  - processes and technologies, that controls and monitors users' access
+
+- identities
+  - helpful for access management
+  - acts as digital representations
+  - e.g.
+    - username, password, or IP addresses
+  - attributes
+    - serves as the digital footprint
+    - basic details
+- methods
+  - regulates access for digital and physical resources
+  - traditional methods:
+    - usernames
+    - certificates
+    - SSH keys
+    - tokens
+    - smartcards
+  - innovative methods
+    - biometric systems
+    - behavioral systems
+    - MFA
+    - SSO
+    - geolocation and time-based restrictions
+
+### Multi-factor Authentication
+- IAM breakdown
+
+- authentication
+  - factors that determine the question, who are you:
+    - knowing
+      - e.g. passwords or pins
+    - having
+      - e.g. mobile phone
+    - are
+      - e.g. your face, biometric
+
+### Single-Sign on
+- determining a password manager that utilizes PC sunflowers
+- using MFA for the SSO
+
+- problems:
+  - introducting a single-point failure
+
+### Passkeys FIDO
+- better security and usability without having passwords
+- device lost scenarios
+- multi devices
+- SSH, & PGP
+- PW problems & manager
+
+- when there's a device lost, there's account/device recovery
+- with multiple devices, the ability to synchorization capabilities
+  - e.g. enabling these functions within a cloud
