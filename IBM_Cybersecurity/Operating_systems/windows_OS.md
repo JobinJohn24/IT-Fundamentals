@@ -147,3 +147,9 @@
 - user mode
   - works in a restricted mode
   - prevents direct access to hardware and system components
+  - virtual address space is limited
+  - prevents damage to OS
+- kernel mode
+  - reserved mode
+  - allows interactions between OS and hardware
+  - 
