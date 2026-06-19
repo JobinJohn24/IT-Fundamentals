@@ -143,13 +143,106 @@
 - troubleshoot issues
 - communication of modes
 
+
 - processor modes in kernel, and user mode
 - user mode
   - works in a restricted mode
   - prevents direct access to hardware and system components
   - virtual address space is limited
   - prevents damage to OS
+
 - kernel mode
   - reserved mode
   - allows interactions between OS and hardware
-  - 
+  - e.g. printing a document supplies the software connection with the physical hardware (printer)
+ 
+  ![alt text](<Screenshot 2026-06-18 at 8.57.58 PM.png>)
+*Communication between modes*
+
+### Windows Servers
+- functionalities
+- funtionalities of network services
+- features and components of security and access of Windows Server OS
+
+- windows server
+  - responsible for:
+    - storing data
+    - communication for businesses
+    - management of network
+  - functionalities
+    - virutalization options
+  - features
+    - active directory
+      - centralized system for authentication, directory services, and policy enforcement
+    - hyper V
+      - multiple virtual machines on a single server
+    - powershell
+      - scripting and automation framework
+
+- network services
+  - features
+    - DNS
+      - converting domain into numerical IP addresses
+    - DHCP
+      - assigning addresses, subnet masks, and other config params
+      - simplifies network management
+    - RDS
+      - remote management capabilities
+      - manages servers remotely
+    - VPN
+      - enables secure remote access
+
+- access controls and security
+  - used for safeguarding user identities, data, and storatge
+
+### Windows command prompt tools for admin
+- prompt interface
+- types of OS user accounts
+- features that use command prompt tools
+
+- CLI
+  - interface for executing commands
+  - performing tasking
+  - config systems
+
+- user account OS types:
+  - `standard user account`
+    - used for regular tasks BUT not criitcal system-based changes
+  - `admin account`
+    - perform admin tasks
+      - managing accounts
+      - CLI tools
+      - changing system settings
+      - installing software
+
+- group policy
+  - managing settings on networks
+  - `gpupdate`
+  - `gpresult`
+  - used for troubleshooting
+- drive letters:
+  - `vol`, `chdir`, `cd`
+    - used for accessing data on other storage drives on CLI
+    - having access over your file management
+- system maintenance and information:
+  - `shutdown`, `sc`, `diskpart`, `winver`, `format`
+    - used for system controls, diagnostic, partitions, and OS version retrieval
+- file management
+  - `dir`, `md`, `rd`, `ren`, `del`
+    - used of managing directories and deleting files
+- file copying and backup
+  - `xcopy`
+- hostname and network
+  - `ipconfig`, `ping`, `hostname`
+    - used for learning more about network config, and verifying connectivity, and diagnosing network issues
+
+### Management Console
+- importance
+- built-in functions
+
+- management console
+  - system management
+  - env customization
+  - snap-ins = control system management
+
+### Active Directory
