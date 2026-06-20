@@ -236,7 +236,7 @@
   - `ipconfig`, `ping`, `hostname`
     - used for learning more about network config, and verifying connectivity, and diagnosing network issues
 
-### Management Console
+### Management Console (MMCs)
 - importance
 - built-in functions
 
