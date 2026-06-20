@@ -244,5 +244,40 @@
   - system management
   - env customization
   - snap-ins = control system management
+    - provides organization, streamlined workflows
+    - tools:
+      - disk management
+      - device management
+      - event viewer
+  - assigns MMC tools to users and groups
 
 ### Active Directory
+- admin features
+- structure: domain, forests, and trees
+
+- helping admin manage account, network resources, and computer systems
+- features:
+  - OUs
+    - managing resource
+    - delegating admin tasks
+    - manage permissions
+    - apply group policy
+  - security groups
+    - access management
+    - simpfilies:
+      - permission assignments
+  - folder redirection
+    - from local machine folder to another on a network
+  - home folder
+    - admins can:
+      - config
+      - permission setting
+      - access rights
+      - maintaing security
+
+- active directory organization:
+  - domain
+  - trees
+    - interconnected domains 
+  - forests
+    - collection of domain tree with common configs
