@@ -85,4 +85,13 @@
 
 - BitLocker to Go
   - extends the functionality to removable storage devices
-  - 
+
+- EFS
+  - encrypts files and folders on NTFS volumes
+  - applied to files stored locally and in shared folders
+  - control access to encrypted data
+
+### User Management and Permissions
+- functions and features of security settings
+- admin vs standard user differences
+- NTFS & shared permissions differences
