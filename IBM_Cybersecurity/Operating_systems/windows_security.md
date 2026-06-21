@@ -95,3 +95,100 @@
 - functions and features of security settings
 - admin vs standard user differences
 - NTFS & shared permissions differences
+
+- group management
+  - permission management
+  - mangement of permission determinant on:
+    - roles
+    - departments
+    - access requirements
+
+- auditing and accountability
+  - helps with identifying security breaches
+
+- standard and admin accounts
+  - standard accounts is the default account
+  - admin account has privileges:
+    - instally software 
+    - changing system settings
+
+- login options
+  - local
+  - microsoft
+  - domain
+    - managed by a windows server domain controller
+    - used in a network env
+    - access to:
+      - printers and other services
+      - shared files
+      - network resources
+    - two sets of permissions:
+      - share permissions
+        - used for files and folders
+        - permissions access to:
+          - read
+          - write
+          - change
+      - NTFS
+        - access to shared folders over the network
+        - 3 levels
+          - read
+          - full control
+          - change
+
+### Antimalware Tools and Firewall configs
+- WinRe risks and considerations
+- defender antivirus role for protection against software threats
+- antivirus and antimalware software importance
+
+- Microsoft Defender Antivirus
+  - built-in antivirus solution
+  - helps prevent attacks against:
+    - software threats
+    - malware
+    - spyware
+    - viruses
+  - defender protection:
+    - active system tracking
+    - automatic security updates
+    - scan files, downloads and processes
+    - uses cloud-based technology
+    - security configs:
+      - firewall settings
+      - device security
+      - parental controls
+
+- Antivirus and Antimalware Software importance 
+  - avoid to install *multiple* antivirus software simultaneously
+  - antimalware advanced techniques:
+    - detects malicious behavior patterns
+    - system changes
+    - unauthorized access attempts
+    - suspicious network communications
+
+- Software Firewall
+  - tracking and controlling network communications
+  - built-in feature for Windows OS
+  - tracks *incoming & outgoing* network communications
+  - analyzes network traffic
+  - changes to notification settings
+    - keeps the user informed about potential attack attempts
+  - exceptions includes:
+    - application
+    - port numbers
+    - predefined exemptions
+
+### Windows Defender Firewall - Lab
+- configuring WDF using basic user interface
+- types of network profiles
+- enabling and disabling each network profile
+- managing incoming connections, which improves the system's security
+
+### Firewall Rule in Microsoft Windows Defender - Lab
+-
+
+
+### Patching
+- importance of patching & updates
+- frequency of applying patching & updates
+- best practices for patching management
