@@ -94,13 +94,13 @@
     - arrangement of files and directories in a tree-like format
 
 - types
-  - FAT
+  - `FAT`
     - simple storage formats and floppy disks
     - features
       - compatability
       - easy management
       - limited storage
-  - NTFS
+  - `NTFS`
     - standard OS
     - support large volumes of data
     - maintains a change journal
