@@ -246,3 +246,69 @@
     - provides the requested service
   - authentication server
     - authentication and issues TGT upon client
+  - TGT - Ticket Granting Server
+    - issues tickets for service access
+  - KDC
+    - combines AS & TGS
+
+- Protocol's Workflow:
+  - client/user hash
+  - TGS secret key
+  - service server secret key
+- Authentication Flow
+  - ![alt text](<Screenshot 2026-06-22 at 2.08.49 PM.png>)
+- ticket creation for the SS
+  - ![alt text](<Screenshot 2026-06-22 at 2.09.53 PM.png>)
+- authentication using service ticket
+  - ![alt text](<Screenshot 2026-06-22 at 2.10.28 PM.png>)
+- Decrpytion & Authentication
+  - ![alt text](<Screenshot 2026-06-22 at 2.10.49 PM.png>)
+
+- Benefits
+  - delegates authentication
+  - enables SSO
+  - offers interoperability
+    - standards set by IETF
+  - uses renewable session tickets
+
+### Windows Auditing
+- basic audit policies
+- security auditing & purpose
+- creating audit policies
+
+- introduction
+  - structured audit strategy
+  - regular security checks, which:
+  - identifies potential threats from cyberattacks
+  - tracks systems activitys
+  - records the security events
+
+- Audit Policies
+  - account log-on events
+    - tracks the users login details
+  - account management
+  - directory service
+  - logon events
+  - object access
+  - policy change
+  - privilege use
+  - process tracking
+  - system events
+
+- Creating policies
+  - understanding the organizational requirements
+  - policy creation implementation:
+    - identifying critical assets
+      - sensitive data
+    - actions and events
+      - user access
+      - potential threats
+    - strucutred audit policy
+      - outlining events to monitor
+      - helping to manage and review the audit logs
+    - implementation of the policy
+      - config the network security settings
+      - ensure security
+    - reviewing the policy
+      - updates to the audit documents
+
