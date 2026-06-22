@@ -74,7 +74,7 @@
     - `consent prompt` - users to verify an action
     - `credential prompt` - request for admin credentials
 
-- bitlocker
+- Bitlocker
   - using encryption techniques to convert data into unreadable cipher text
   - supporting authentication methods:
     - passwords
@@ -136,7 +136,7 @@
           - full control
           - change
 
-### Antimalware Tools and Firewall configs
+### Anti-Malware Tools and Firewall configs
 - WinRe risks and considerations
 - defender antivirus role for protection against software threats
 - antivirus and antimalware software importance
