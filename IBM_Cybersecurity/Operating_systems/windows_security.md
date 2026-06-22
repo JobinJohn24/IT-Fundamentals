@@ -67,7 +67,7 @@
 - Bitlocker & BitLocker to Go
 - EFC in windows security
 
-- UAC 
+- UAC (User Account Control)
   - enhancing security and protects against unauthorized changes and malware
   - ensure users of risky behaviors
   - prompts
