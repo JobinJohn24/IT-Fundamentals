@@ -233,3 +233,16 @@
 - domain-based authentication systems benefits
 
 - secure service requests over insecure networks
+- utilizes cryptographic techniques and third-party mediator
+- KDC (Kerberos Distribution Center) key roles
+  - user authentication
+  - ticket issuance
+  - temporary credentials
+
+- Protocol
+- elements:
+  - client with service request
+  - hosting server
+    - provides the requested service
+  - authentication server
+    - authentication and issues TGT upon client
