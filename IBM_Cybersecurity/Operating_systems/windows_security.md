@@ -192,3 +192,25 @@
 - importance of patching & updates
 - frequency of applying patching & updates
 - best practices for patching management
+
+- scenario:
+  - alice, a freelance graphic designer postpones updates
+  - the software crashes while finalizing projects and attempts to recover the work, which failed
+  - the ignored security patch caused the data loss, which indicated a setback of several days work
+
+- Patches and updates
+  - patches improve the security software applications post-release
+  - updates offer features or enhancements
+
+- importance
+  - crucial for software maintenance
+  - addresses security gaps
+  - for businesses, it help secure sensitive days, and ensures that it's compatible with emerging technologies
+
+- frequency
+  - having a scheduled critical update 
+  - include a incremental update
+
+- Patch management
+  - systematic approach
+  - includes identification, acquisition, installation, and verification
