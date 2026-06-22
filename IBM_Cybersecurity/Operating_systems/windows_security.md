@@ -223,7 +223,7 @@
   - preparing a contingency plan
   - consistent schedule for applying updates
   - employing patch management software
-  - auotmating patch deployment across the software platforms
+  - automating patch deployment across the software platforms
   - new feature incorporation
   - prioritizing patches based on importance
 
