@@ -214,3 +214,22 @@
 - Patch management
   - systematic approach
   - includes identification, acquisition, installation, and verification
+  - monitors new patches
+
+- best practices for patch management
+  - develop management policy
+  - prioritize and apply critical patches
+  - testing patches to prevent conflicts
+  - preparing a contingency plan
+  - consistent schedule for applying updates
+  - employing patch management software
+  - auotmating patch deployment across the software platforms
+  - new feature incorporation
+  - prioritizing patches based on importance
+
+### Kerberos
+- components
+- fundamental steps for protocol's flow
+- domain-based authentication systems benefits
+
+- secure service requests over insecure networks
