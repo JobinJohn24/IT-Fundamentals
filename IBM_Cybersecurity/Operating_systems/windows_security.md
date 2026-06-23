@@ -37,7 +37,7 @@
         - managing accounts
     - guest account
       - restricted
-    - KRBTGT - kerberos ticket generating ticket account
+    - KRBTGT - `kerberos ticket generating ticket account`
       - used internally by domain accounts
       - responsible for issuing tickets
     - help assistant account
@@ -65,16 +65,16 @@
 ### Windows Security Settings
 - UAC
 - Bitlocker & BitLocker to Go
-- EFC in windows security
+- EFS in windows security
 
-- UAC (User Account Control)
+- `UAC (User Account Control)`
   - enhancing security and protects against unauthorized changes and malware
   - ensure users of risky behaviors
   - prompts
     - `consent prompt` - users to verify an action
     - `credential prompt` - request for admin credentials
 
-- Bitlocker
+- `Bitlocker`
   - using encryption techniques to convert data into unreadable cipher text
   - supporting authentication methods:
     - passwords
@@ -83,10 +83,10 @@
     - TPM trusted platform module
   - can be integrated into active directory
 
-- BitLocker to Go
+- `BitLocker to Go`
   - extends the functionality to removable storage devices
 
-- EFS
+- `EFS`
   - encrypts files and folders on NTFS volumes
   - applied to files stored locally and in shared folders
   - control access to encrypted data
@@ -123,13 +123,13 @@
       - shared files
       - network resources
     - two sets of permissions:
-      - share permissions
+      - `share permissions`
         - used for files and folders
         - permissions access to:
           - read
           - write
           - change
-      - NTFS
+      - `NTFS` - New Technology File System
         - access to shared folders over the network
         - 3 levels
           - read
@@ -183,10 +183,6 @@
 - types of network profiles
 - enabling and disabling each network profile
 - managing incoming connections, which improves the system's security
-
-### Firewall Rule in Microsoft Windows Defender - Lab
--
-
 
 ### Patching
 - importance of patching & updates
@@ -244,11 +240,11 @@
   - client with service request
   - hosting server
     - provides the requested service
-  - authentication server
+  - `authentication server` - AS
     - authentication and issues TGT upon client
-  - TGT - Ticket Granting Server
+  - `TGT` - Ticket Granting Server
     - issues tickets for service access
-  - KDC
+  - `KDC` - Kerberos Distribution Center
     - combines AS & TGS
 
 - Protocol's Workflow:
@@ -297,7 +293,7 @@
 
 - Creating policies
   - understanding the organizational requirements
-  - policy creation implementation:
+  - policy creation steps:
     - identifying critical assets
       - sensitive data
     - actions and events
