@@ -43,3 +43,61 @@
   - monitoring system performance
 
 - creating a local system account
+  - settings
+  - unlock
+  - add user
+  - click standard user account
+    - fill out the credentials:
+      - full name & username
+      - password
+      - `add`
+    - switch user
+
+- system information
+  - activities
+  - type about in the search bar
+  - find the hardware specifications on the left-hand side
+  - viewing the preconfigured folder categories
+
+- monitoring system performance 
+  - activities
+  - search bar
+    - `system`
+  - select system monitor
+    - views:
+      - processes 
+      - system information
+      - resources
+
+### Linux Terminal Overview
+- linux shell 
+- linux terminal
+-  shell and terminal working together
+-  using terminal to navigate directories  
+
+- linux shell
+  - OS-level applications that interprets commands
+  - performing:
+    - write, and read files
+    - move, and copy files
+    - filter, and extract data
+  - shells:
+    - bash
+    - Zsh
+
+- linux terminal
+  - application used to interact with the shell
+  - entering commands and receives output from the terminal
+
+-  shell and terminal working together
+   -  user -> terminal -> shell OS kernel -> hardware
+   -  paths in the file sytem:
+      -  `~` home directory
+      -  `/` root directory
+      -  `..` parent of current directory
+      -  `.` current directory
+
+### Reading - Linux Commands
+- purpose of common linux commands
+- terminal window to input linux commands
+

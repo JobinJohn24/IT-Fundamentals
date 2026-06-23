@@ -15,3 +15,21 @@
 
 ### Course Overview
 - Ethical Hacking hands-on sourcing
+- open source tools
+
+- ethical hacking
+  - gateway:
+    - penetration testing
+    - network traffic analyzation
+    - responding to threats
+  - open-source tools: 
+    - kali linux
+      - Ethical hacking
+    - wireshark
+      - network traffic analysis
+    - metasploit
+      - exploitation and penetration testing
+    - openVAS
+      - incident response and defense
+
+### Ethical Hacking
