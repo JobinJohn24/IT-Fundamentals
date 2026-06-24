@@ -101,3 +101,56 @@
 - purpose of common linux commands
 - terminal window to input linux commands
 
+### Common Linux Commands
+- shell
+- common bash commands
+
+- common shell commands
+  - printing file and string
+  - network operations
+  - monitoring performance and status
+  - working with files and directories
+  - running batch jobs
+
+- Scripting commands based on functionality
+- getting information
+  - whoami - username
+  - id - user and group ID
+  - uname - operating system name
+  - ps - running processes
+  - top - resource usage
+  - df - mounted file systems
+  - man - reference
+  - date todays date
+- working with files
+  - cp - copy
+  - mv - change file name
+  - rm - remove files
+  - touch - create empty file
+  - chmod - change and modify file permissions
+  - wc - count of lines
+  - grep - return lines in matching patterns
+- navigating with directories
+  - ls - list files
+  - find - find files
+  - pwd - get present directory
+  - mkdir - makes new directory
+  - cd - change directory
+  - rmdir - removes directory
+- printing files and string contents
+  - cat - prints entire content
+  - more - print file contents
+  - head - print first N lines of file
+  - tail - print last N lines of file
+  - echo - print string or variable value
+- compression and archive
+  - tar - archive file
+  - zip - compress file
+  - unzip - extract file
+- networking
+  - hostname - prints hostname
+  - ping - packet sending to URL and prints response
+  - ifconfig - configures system network interfaces
+  - curl - contents of file of the URL
+  - wget - download file from URL
+

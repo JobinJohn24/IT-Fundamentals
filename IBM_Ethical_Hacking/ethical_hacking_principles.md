@@ -78,7 +78,18 @@
 
 - methodology
   - reconnaissance
+    - collecting available data about a target or organization
   - scanning & enumeration
+    - misconfigs, open ports
   - gaining access
+    - exploiting vulnerabilities
   - maintaing access
+    - deploying tools:
+      - backdoors
+      - keyloggers
+      - RATs
   - covering tracks
+    - deleting logs
+    - using encryption
+    - using anti-forensic techniques
+
