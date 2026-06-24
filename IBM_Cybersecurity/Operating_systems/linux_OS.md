@@ -154,3 +154,16 @@
   - curl - contents of file of the URL
   - wget - download file from URL
 
+### File System Mangement & Directory Structure
+- files and directories
+- comparing directory structures
+- linux key directories & it's role
+
+- files and directories
+  - building blocks for organizing data
+  - files
+    - units that stores data
+  - directories
+    - holds information about files and directories
+- Directory structure
+  - 
