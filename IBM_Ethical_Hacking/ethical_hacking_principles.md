@@ -33,3 +33,52 @@
       - incident response and defense
 
 ### Ethical Hacking
+- ethical vs malicious hacking
+- key phases of ethical hacking lifestyle
+- ethical hacking preventing real-world breaches
+
+- ethical hackers helps in understanding the breaches before the malicious threats
+- penetration testing
+  - tests systems, networks, and applications to indicate security breaches for review
+
+- ethical versus malicious hacking
+  - the aspect is based on motivation, authorization, legal compliance, and outcomes
+
+- Lifecycle
+  - `reconnaissance`
+    - gathering information about the target
+    - using passive and active methods
+  - `scanning and enumeration`
+    - identifies open ports, running services, and vulnerabilities
+  - `exploitation`
+    - controlled exploitation of flaws without real attacks
+  - `post-exploitation analysis`
+    - assesses the attack access level
+  - `reporting and remediation`
+    - complies findings and provide business impact
+    - recommends fixes and improvements
+
+- real world relevance
+  - equifax data breach
+    - 147 million exposed based on an unpatched vulnerability
+
+- impact
+  - understanding attacker methods
+  - improves overall hacking abilities
+
+### Motivation and Methodologies
+- motivation
+- hacker workflow
+- aspects of a real hacking attack
+- learnings from a attack
+
+- motivation
+  - driven by curiousity, ideology, and financial motivation
+  - financial gain, hacktivism, espionage, curiousity, and revenge & sabotage
+
+- methodology
+  - reconnaissance
+  - scanning & enumeration
+  - gaining access
+  - maintaing access
+  - covering tracks
