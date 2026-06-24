@@ -166,4 +166,23 @@
   - directories
     - holds information about files and directories
 - Directory structure
-  - 
+  - foundation for all directories and files
+  - provides write access only to the root user
+  - root vs /root
+    - foundation of the file system
+    - specific directory of the slash partition
+- common directories
+  - /bin
+    - essential binary executables
+  - /sbin
+    - system maintenance tasks
+  - /etc
+    - stores configuration files for installed programs
+  - /var
+    - constantly changing or growing data files 
+  - /tmp
+    - stores files that's clear upon system reboot
+  - /home
+    - stores users personal files
+  - /boot
+    - essential for system startup
