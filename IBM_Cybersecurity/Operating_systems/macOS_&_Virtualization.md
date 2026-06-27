@@ -58,7 +58,7 @@
   - command-line interface
   - run commands, launch scripts, perform system configs
 
-### Virutalization
+### Virtualization
 - benefits
 - types
 
