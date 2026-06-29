@@ -93,3 +93,9 @@
     - using encryption
     - using anti-forensic techniques
 
+### Global CS Laws
+- global regulations
+- jurisdictional requirements
+- laws on ethical hacking impact
+
+- 137/194 countries have data protection laws
